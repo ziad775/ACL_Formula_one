@@ -38,3 +38,7 @@ jupyter notebook f1_podium_prediction.ipynb   # then Kernel → Restart & Run Al
 | Name | Main responsibility |
 |------|---------------------|
 |   ziad walid   |                     |
+|   Marwan abo elseoud |     |
+|   Omar Sameh |     |
+|   Sara Magdy |     |
+
