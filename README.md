@@ -37,4 +37,4 @@ jupyter notebook f1_podium_prediction.ipynb   # then Kernel → Restart & Run Al
 ## Team
 | Name | Main responsibility |
 |------|---------------------|
-|      |                     |
+|   ziad walid   |                     |
